@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>BMX</fullName>
+        <default>false</default>
+        <label>BMX</label>
+    </customValue>
+    <customValue>
+        <fullName>Road</fullName>
+        <default>false</default>
+        <label>Road</label>
+    </customValue>
+    <customValue>
+        <fullName>Mountain</fullName>
+        <default>false</default>
+        <label>Mountain</label>
+    </customValue>
+    <customValue>
+        <fullName>Tandem</fullName>
+        <default>false</default>
+        <label>Tandem</label>
+    </customValue>
+    <masterLabel>Bicycle Types</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
